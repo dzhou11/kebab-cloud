@@ -1,4 +1,4 @@
-package com.dzhou11.kebabcloud;
+package com.dzhou11.kebabcloud.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
